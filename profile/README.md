@@ -23,7 +23,7 @@
 <br/>  
 
 
-<div align="center">Active Testnet
+<div align="center"><h1>Active Testnet</h1>
 <table>
   <tr>
     <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1556857504394526721/OyWtRrNP_400x400.jpg" alt="React" height="100" /></a></td>
@@ -72,7 +72,7 @@
   </table>
 </div> 
 
- <div align="center">Planned Testnet
+ <div align="center"><h1>Planned Testnet</h1>
   <table>
     <tr>
       <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  </td>
