@@ -8,16 +8,9 @@
 ### <div align="center">-We Are Core Node Team-</div>  
   
 
-***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡</div></ins>***  
+***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡</div></ins>*** 
   
 
-  
-  
-
-  
-  
-
-  
   
 
 <br/>  
@@ -30,7 +23,7 @@
 <br/>  
 
 
-## Active Testnet  
+<div align="center">Active Testnet
 <table>
   <tr>
     <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1556857504394526721/OyWtRrNP_400x400.jpg" alt="React" height="100" /></a></td>
@@ -77,78 +70,37 @@
       <td>Minima</td>
     </tr>
   </table>
+</div> 
 
-
-## Planned testnets
-  
-<table><tr><td valign="top" width="33%">
-
-
-
-### 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1594732521962541058/NGdT4O2k_400x400.jpg" alt="Bootstrap" height="100" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1579865946038075392/8XDdjgUp_400x400.jpg" alt="CSS3" height="100" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1523593944386326528/rVjsezsD_400x400.jpg" alt="HTML5" height="100" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1364590285255290882/hjnIm9bV_400x400.jpg" alt="Electron" height="100" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1611028341099794433/CPYJtUWQ_400x400.jpg" alt="JavaScript" height="100" /></a>  
-
-
-</td><td valign="top" width="33%">
-
-
-
-###  
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1582380655027052544/dK8glmZ3_400x400.jpg" alt="TypeScript" height="100" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1612825247417339906/S5P5hlrp_400x400.jpg" alt="JavaScript" height="100" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1610591554003161093/FmefvldJ_400x400.jpg" alt="TypeScript" height="100" /></a>  
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-###  
-<div align="center">  
-
-
-
-</td></tr></table>  
-
-
-<table>
-  <tr>
-    <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  </td>
-    <td>1. satır, 2. sütun</td>
-    <td>1. satır, 3. sütun</td>
-    <td>1. satır, 4. sütun</td>
-    <td>1. satır, 5. sütun</td>
-  </tr>
-  <tr>
-    <td>Celestia</td>
-    <td>2. satır, 2. sütun</td>
-    <td>2. satır, 3. sütun</td>
-    <td>2. satır, 4. sütun</td>
-    <td>2. satır, 5. sütun</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  </td>
-    <td>1. satır, 2. sütun</td>
-    <td>1. satır, 3. sütun</td>
-    <td>1. satır, 4. sütun</td>
-    <td>1. satır, 5. sütun</td>
-  </tr>
-  <tr>
-    <td>Celestia</td>
-    <td>2. satır, 2. sütun</td>
-    <td>2. satır, 3. sütun</td>
-    <td>2. satır, 4. sütun</td>
-    <td>2. satır, 5. sütun</td>
-  </tr>
-</table>
+ <div align="center">Planned Testnet
+  <table>
+    <tr>
+      <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  </td>
+      <td><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1594732521962541058/NGdT4O2k_400x400.jpg" alt="Bootstrap" height="100" /></a>  </td>
+      <td><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1579865946038075392/8XDdjgUp_400x400.jpg" alt="CSS3" height="100" /></a>  </td>
+      <td><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1523593944386326528/rVjsezsD_400x400.jpg" alt="HTML5" height="100" /></a>  </td>
+      <td><a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1364590285255290882/hjnIm9bV_400x400.jpg" alt="Electron" height="100" /></a>  </td>
+    </tr>
+    <tr>
+      <td>Celestia</td>
+      <td>Dymension</td>
+      <td>FireChain</td>
+      <td>Scroll</td>
+      <td>Dydx</td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1611028341099794433/CPYJtUWQ_400x400.jpg" alt="JavaScript" height="100" /></a></td>
+      <td><a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1582380655027052544/dK8glmZ3_400x400.jpg" alt="TypeScript" height="100" /></a></td>
+      <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1612825247417339906/S5P5hlrp_400x400.jpg" alt="JavaScript" height="100" /></a>  </td>
+      <td><a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1610591554003161093/FmefvldJ_400x400.jpg" alt="TypeScript" height="100" /></a> </td>
+    </tr>
+    <tr>
+      <td>Zinnia</td>
+      <td>Sui</td>
+      <td>Namada</td>
+      <td>Gitshock</td>
+    </tr>
+  </table>
+  </div>
