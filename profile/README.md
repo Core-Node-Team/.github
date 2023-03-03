@@ -1,6 +1,7 @@
 <div align="center">
 
-![logo2WB](https://user-images.githubusercontent.com/76253089/222720035-08c0a682-2a0d-404a-a527-7b66047c5682.jpg)
+
+<img src="https://user-images.githubusercontent.com/76253089/222720035-08c0a682-2a0d-404a-a527-7b66047c5682.jpg" width="300" height="300" alt="istanbul manzara">
 
 </div>  
   
