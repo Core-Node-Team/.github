@@ -9,19 +9,10 @@
   
 
 ***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡</div></ins>*** 
-  
-
-  
-
-<br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=core-node-team&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+<img src="https://komarev.com/ghpvc/?username=Core-Node-Team&&style=flat-square" align="center" />
+</div>
 
 <div align="center"><h1>Active Testnet</h1>
 <table>
