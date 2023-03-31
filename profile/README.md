@@ -53,12 +53,12 @@
     <tr>
       <td><a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" alt="MongoDB" height="100" /></a></td>
       <td><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1628366663073640448/pj27t3hj_400x400.png" alt="Node.js" height="100" /></a></td>
-      <td><a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Minima/RewardClaim" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1614917590970679299/VHANyjFy_400x400.png" alt="AWS" height="100" /></a></td>
+      <td><a href="https://github.com/Kral001/Goracle-Network-Node-Kurulum-Rehberi/blob/main/README.md" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1527628502597521411/NPPJeSYq_400x400.jpg" alt="AWS" height="100" /></a></td>
     </tr>
     <tr>
       <td>Muon</td>
       <td>Q Network</td>
-      <td>Minima</td>
+      <td>GoOracle</td>
     </tr>
   </table>
 </div> 
