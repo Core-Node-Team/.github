@@ -58,7 +58,7 @@
     <tr>
       <td>Muon</td>
       <td>Q Network</td>
-      <td>GoOracle</td>
+      <td>Goracle Network</td>
     </tr>
   </table>
 </div> 
