@@ -17,12 +17,12 @@
 <div align="center"><h1>Active Testnet</h1>
 <table>
   <tr>
-    <td><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  </td>
+    <td><a href="https://twitter.com/CelestiaOrg" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" alt="React" height="100" /></a>  </td>
     <td><a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Nibiru" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1634369667430055941/Z5SnS2YP_400x400.jpg" alt="Nibiru" height="100" /></a></td>
     <td><a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Gitopia" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" alt="Bootstrap" height="100" /></a>  </td>
     <td><a href="https://github.com/Core-Node-Team/Testnet-TR/tree/main/Sarcophagus/Domain-Settings" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1299025554163871744/wNNzn8OT_400x400.jpg" alt="Sarcophagus" height="100" /></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg" alt="HTML5" height="100" /></a></td>
-    <td><a href="https://www.wormholesscan.com/#/AccountDetail/0xbfc952b60E04B73AA997308f61eB69529553390A" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1603278945222524928/XlW3ptGz_400x400.jpg" alt="Electron" height="100" /></a></td>
+    <td><a href="https://twitter.com/sarcophagusio" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1501630239096520705/H88Y46ND_400x400.jpg" alt="HTML5" height="100" /></a></td>
+    <td><a href="https://twitter.com/WormholesChain" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1603278945222524928/XlW3ptGz_400x400.jpg" alt="Electron" height="100" /></a></td>
   </tr>
   <tr>
     <td>Celestia</td>
@@ -36,9 +36,9 @@
 
 <table>
     <tr>
-      <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png" alt="JavaScript" height="100" /></a></td>    
-      <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1609169358193844224/wFzdThao_400x400.jpg" alt="JavaScript" height="100" /></a></td>
-      <td><a href="[https://www.php.net/](https://github.com/Core-Node-Team/Testnet-TR/tree/main/Massa)" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1580151744901824512/W_MD85bU_400x400.jpg" alt="PHP" height="100"/></a></td>
+      <td><a href="https://twitter.com/newrl_layer1" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1567814417630511107/MyafMY_R_400x400.png" alt="JavaScript" height="100" /></a></td>    
+      <td><a href="https://twitter.com/ZieshaNetwork" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1609169358193844224/wFzdThao_400x400.jpg" alt="JavaScript" height="100" /></a></td>
+      <td><a href="(https://github.com/Core-Node-Team/Testnet-TR/tree/main/Massa)" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1580151744901824512/W_MD85bU_400x400.jpg" alt="PHP" height="100"/></a></td>
        <td><a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1610231138018017281/VJTt2BJy_400x400.jpg" alt="MongoDB" height="100" /></a></td>
       <td><a href="https://github.com/Kral001/Goracle-Network-Node-Kurulum-Rehberi/blob/main/README.md" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1527628502597521411/NPPJeSYq_400x400.jpg" alt="AWS" height="100" /></a></td>
     </tr>
