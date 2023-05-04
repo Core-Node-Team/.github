@@ -56,6 +56,8 @@
  <div align="center"><h1>Planned Testnet</h1>
   <table>
     <tr>
+      <td><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1310958947357077504/JM4_vQ34_400x400.png" alt="Bootstrap" height="100" /></a>  </td>
+      <td><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1608632586137395201/Khrl4_wJ_400x400.jpg" alt="Bootstrap" height="100" /></a>  </td>
       <td><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1594732521962541058/NGdT4O2k_400x400.jpg" alt="Bootstrap" height="100" /></a>  </td>
       <td><a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1649948450996330496/iQVqbpo4_400x400.jpg" alt="CSS3" height="100" /></a>  </td>
       <td><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1523593944386326528/rVjsezsD_400x400.jpg" alt="HTML5" height="100" /></a>  </td>
@@ -63,6 +65,8 @@
       <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1612825247417339906/S5P5hlrp_400x400.jpg" alt="JavaScript" height="100" /></a>  </td>
       </tr>
     <tr>
+      <td>Mina</td>
+      <td>Opside</td>
       <td>Dymension</td>
       <td>FireChain</td>
       <td>Scroll</td>
