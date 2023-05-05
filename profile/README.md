@@ -4,18 +4,23 @@
 
 
 ### <div align="center">-We Are Core Node Team-</div>  
-You can contact us through our social media or chat channels.
-  
+
+ <!-- 
   <a href="https://twitter.com/corenodeHQ" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76253089/236428283-e424a432-ebb0-45a6-aa0a-6ac4fbf67908.png" alt="React" height="40" /></a>
   <a href="https://discord.gg/w8kquFEkwR" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76253089/236428932-5408bb4a-20f7-4081-ac8b-8e94b9a35405.svg" alt="React" height="40" /></a>
   <a href="https://t.me/corenodechat" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/76253089/236429218-58b93d2c-11e6-4b5f-9838-7f89815941a9.png" alt="React" height="40" /></a>
   
-
-## | [Twitter](https://twitter.com/corenodeHQ) | [Discord](https://discord.gg/w8kquFEkwR) | [Telegram](https://t.me/+shSFVLA14B4yNmM6) | 
+-->
   
+
 </div> 
 
-***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡</div></ins>*** 
+***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡ You can contact us through our social media or chat channels.</ins>*** 
+
+
+## | [Twitter](https://twitter.com/corenodeHQ) | [Discord](https://discord.gg/w8kquFEkwR) | [Telegram](https://t.me/corenodechat) | 
+
+</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Core-Node-Team&&style=flat-square" align="center" />
