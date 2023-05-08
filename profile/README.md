@@ -130,6 +130,7 @@
       <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1354172599874560000/jA-zebSN_400x400.png" alt="JavaScript" height="100" /></a></td>
       <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1507017087725703183/xvGLsTjU_400x400.jpg" alt="JavaScript" height="100" /></a></td>
       <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1601055081675325440/ycMVxfJt_400x400.jpg" alt="JavaScript" height="100" /></a></td>
+      <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1457806953116323844/q07U_zgl_400x400.jpg" alt="JavaScript" height="100" /></a></td>
     </tr>
     <tr>
       <td>Subspace</td>
@@ -137,13 +138,6 @@
       <td>Stratos</td>
       <td>Forta</td>
       <td>Taiko</td>
-    </tr>
-  </table>
-    <table>
-    <tr>
-      <td><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1457806953116323844/q07U_zgl_400x400.jpg" alt="JavaScript" height="100" /></a></td>
-    </tr>
-    <tr>
       <td>Nulink</td>
     </tr>
   </table>
