@@ -28,7 +28,7 @@
 <img src="https://komarev.com/ghpvc/?username=Core-Node-Team&&style=flat-square" align="center" />
  
 </div>
-
+ <!--
 <div align="center"><h1> MAINNET </h1></div>
 
 <div align="center"><h1>Active Mainnets</h1>
@@ -56,7 +56,7 @@
     <td>Goracle</td>
   </tr>
 </table>
- 
+-->
 
 <div align="center"><h1> TESTNETS </h1></div>
 
