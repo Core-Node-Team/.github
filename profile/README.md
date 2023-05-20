@@ -58,6 +58,7 @@
 </table>
 -->
 
+<!--
 <div align="center"><h1> TESTNETS </h1></div>
 
 <div align="center"><h1>Active Testnets</h1>
@@ -176,3 +177,4 @@
     </tr>
   </table>
   </div>
+-->
