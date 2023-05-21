@@ -17,7 +17,7 @@
 
 ***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡ You can contact us through our social media or chat channels.</ins>*** 
 
-
+## | [Website](https://corenode.team) |
 ## | [Twitter](https://twitter.com/corenodeHQ) | [Discord](https://discord.gg/w8kquFEkwR) | [Telegram](https://t.me/corenodechat) | 
 
 </div>
