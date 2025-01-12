@@ -1,6 +1,6 @@
 <div align="center">
 
-![githubbanneryeni](https://user-images.githubusercontent.com/76253089/236426103-c77df089-4d2f-4f51-9aea-37ef35ababb8.jpg)
+![TwitterKapak](https://github.com/user-attachments/assets/e0758db5-9c81-4dee-aa6b-8133a2f92255)
 
 
 ### <div align="center">-We Are Core Node Team-</div>  
@@ -17,18 +17,19 @@
 
 ***<ins><div align="center">We actively participate in dozens of testnets, helping to keep them running and debugging, participating in development and support for an early start.⚡ You can contact us through our social media or chat channels.</ins>*** 
 
-## | [Website](https://corenode.team) |
-## | [Twitter](https://twitter.com/corenodeHQ) | [Discord](https://discord.gg/w8kquFEkwR) | [Telegram](https://t.me/corenodechat) | 
+## | [Website](https://corenode.info) |
+## | [Twitter](https://twitter.com/corenodeHQ) | [Discord](https://discord.gg/w8kquFEkwR) | [Telegram](https://t.me/corenodesohbet) | 
 
 </div>
 
 
+<!--
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Core-Node-Team&&style=flat-square" align="center" />
  
 </div>
- <!--
+ 
 <div align="center"><h1> MAINNET </h1></div>
 
 <div align="center"><h1>Active Mainnets</h1>
